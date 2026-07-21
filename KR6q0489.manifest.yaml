@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0489_000.yaml, hash: 'sha256:bce07ceb30682acecaa5faf0a0209319a44ed692141af8bcb2a834ff6615aee9'}
+  - {seq: 0, filename: KR6q0489_000.yaml, hash: 'sha256:14766aab02b819a5b1b0681e55c66cc69116f14c57699070386d1155eb443b56'}
   - {seq: 1, filename: KR6q0489_001.yaml, hash: 'sha256:86a3d9296627b8605bf2b6844f390e4334631f6b4daeb44e0e880538ec36d7ec'}
   - {seq: 2, filename: KR6q0489_002.yaml, hash: 'sha256:42d9a9a22f43d7b42a55a772c04253c137fe338df9ae77c55ef79f2fe8e8b83c'}
   - {seq: 3, filename: KR6q0489_003.yaml, hash: 'sha256:b9888903b3e3033393da2a6809cdb5ceee52e343719fa28e386f0beffde06fab'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 11, filename: KR6q0489_011.yaml, hash: 'sha256:1d002516b2f8755bfe7900475b2d5b399b2aa433c4903016747c0d5bfc6eefc1'}
   - {seq: 12, filename: KR6q0489_012.yaml, hash: 'sha256:313da6135908e46ba315a16b3d5933707acc645e07ff03fd0415aa16d85b3536'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0489_000.markers.yaml, hash: 'sha256:891cab2e439af566e0088ca375f50dcff24a05dec4ef2b1c9bb0c9219caed130'}
+  - {seq: 0, role: markers, filename: assets/KR6q0489_000.markers.yaml, hash: 'sha256:8049fbb8314ea5e76999bc86ebc1c1357c94db62f2155cdc65e1f9a4a595177f'}
   - {seq: 1, role: markers, filename: assets/KR6q0489_001.markers.yaml, hash: 'sha256:bc60f0799621bc5284c161f311a2d3a3f8ebceaf2f5ea305c273b032ab81c6c6'}
   - {seq: 2, role: markers, filename: assets/KR6q0489_002.markers.yaml, hash: 'sha256:6602b6d14c6e420d68541c50b610bf149aeea988334194f605fd7d747725c941'}
   - {seq: 3, role: markers, filename: assets/KR6q0489_003.markers.yaml, hash: 'sha256:0d20a8485e2a82e8fedd2bd8224698de63d0a0a4813be08663ae06a916268c09'}
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0489_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0489_J_000-mulu-2
     span:
-    - front
+    - body
     - 358
     - 358
   label: 目錄
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0489_J_000-mulu-3
     span:
-    - front
+    - body
     - 434
     - 434
   label: 上堂
@@ -3109,7 +3109,7 @@ table_of_contents:
   label: 密印和尚塔銘碑記
   type: mulu
   level: 1
-hash: sha256:cb2777df61d27a9a6b08f65ee3e3c1f4fa599747092719312599888cb001dbec
+hash: sha256:c26939d501ad6cd21c1fba12a0e65a84abcd1f6bc0f57aff678ccb9c078b46ad
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
